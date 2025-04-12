@@ -1,0 +1,10 @@
+streamlit
+pandas
+Flask
+nltk
+scikit-learn
+ipykernel
+seaborn
+sentence_transformers
+rank_bm25
+-e .
